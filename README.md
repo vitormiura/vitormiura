@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Welcome to my profile! [<img src="" width="30px">](url)</h2>
+<h2> Welcome to my profile! 🐒(url)</h2>
 </div>
 <div align="center">
 
