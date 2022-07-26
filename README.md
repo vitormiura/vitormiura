@@ -7,7 +7,7 @@
   
 ---
 [![HitCount](https://hits.dwyl.com/vitormiura/vitormiura.svg)](https://hits.dwyl.com/vitormiura/vitormiura)
-  
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitormiura&langs_count=10&theme=nord&layout=compact)
 
 </div>
 
