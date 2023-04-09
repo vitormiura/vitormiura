@@ -8,6 +8,6 @@
 </div>
   <hr>
 
-  [![HitCount](https://hits.dwyl.com/vitormiura/vitormiura.svg)](https://hits.dwyl.com/vitormiura/vitormiura)
+  ![](https://komarev.com/ghpvc/?username=vitormiura)
 
 </div>
