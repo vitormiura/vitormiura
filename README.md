@@ -3,5 +3,7 @@
 <div>
   passionate about software development and data, but currently not fully active bc working in the product area.
 </div>
-  !![](https://komarev.com/ghpvc/?username=vitormiura)
+</br>
+  ![](https://komarev.com/ghpvc/?username=vitormiura)
+  
 </div>
